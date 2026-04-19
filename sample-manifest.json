@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c63f8dd9-667f-4c5f-b2dc-ce4c0c4b9e75",
+  "export_job_id": "4d975955-0dbf-403e-8cdb-c5493c1eaead",
   "id_short": 477675,
-  "published_at": "2026-04-11T19:08:53Z",
+  "published_at": "2026-04-19T19:20:54Z",
   "repo_name": "all-restaurants-in-glendale-california-us-sample-477675",
   "sample_asset_name": "beamstation_477675_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/477675/beamstation_477675_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 59,
-  "sample_sha256": "cbdfbfc0f681946a754b28004941571a39770b4f7d66d6462196a467eac147f8",
-  "sample_size_bytes": 218437,
-  "total_records": 593
+  "sample_records": 58,
+  "sample_sha256": "7d4cabdb4813b899867c52ca565a860129014de03aa40c661a379f790aa03cb6",
+  "sample_size_bytes": 211252,
+  "total_records": 588
 }
